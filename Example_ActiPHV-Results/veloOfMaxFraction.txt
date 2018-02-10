@@ -1,0 +1,18 @@
+Max. velo in [px/frame]
+7.39041201025351
+
+
+SD of max. velo in [px/frame]
+0.13288228990583
+
+
+Max. velo in [µm/s]
+9.4597273731245
+
+
+SD of max. velo in [µm/s]
+0.170089331079462
+
+
+No. of filaments in the fastest fraction:
+8

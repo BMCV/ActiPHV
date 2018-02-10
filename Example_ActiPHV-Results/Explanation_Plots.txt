@@ -1,0 +1,20 @@
+In this directory you find the ActiPHV results for the 
+example image sequence and tracking data.
+
+The plots show the following:
+PhaseIdentification.pdf: 
+	Kalman-filtered signal with cuts that separate different
+	phases.
+
+PhaseIdentification2.pdf:
+	Same as PhaseIdentification.pdf without IDs
+
+PhaseIdentification_rawSignal.pdf:
+	Identified phases on unfiltered signal.
+
+PhaseIdentification_gaussFilteredSignal.pdf:
+	This plot shows the gauss-filtered signal used 
+	for maxima detection.
+		yellow line: Kalman-filtered signal
+		blue line: gauss-filtered signal
+		red vertical lines: phase cuts 
