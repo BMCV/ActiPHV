@@ -1,0 +1,10 @@
+These files were generated using MTrackJ (Meijering 2012).
+MTrackJ is a plugin for manual tracking in Fiji (ImageJ).
+
+You can view how the filaments were tracked by doing the following:
+1. Start Fiji
+2. Open one of the example image sequences
+3. Start the MTrackJ plugin
+4. Click "Import"
+5. Select the corresponding ".mdf" file (MTrackJ format)
+6. View the tracks directly in the image sequence
